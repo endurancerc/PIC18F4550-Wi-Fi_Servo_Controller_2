@@ -13,7 +13,7 @@ Build your own WiFi Servo Controller 2! Unlike the other products the WiFi Servo
   
 The commercial version can be found here:
 
-![alt text](http://www.endurance-rc.com/controllers.php#wifi)
+[http://www.endurance-rc.com/controllers.php#wifi](http://www.endurance-rc.com/controllers.php#wifi)
 
 Requires Device Circuit.
 
