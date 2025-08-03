@@ -19,6 +19,10 @@ Requires Device Circuit.
 
 ---------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/endurancerc/endurancerc-PIC18F4550-Wi-Fi_Servo_Controller_2/blob/main/wifi_servo_2_top.jpg?raw=true)
+![alt text](https://github.com/endurancerc/PIC18F4550-Wi-Fi_Servo_Controller_2/blob/main/wifi_servo_2_top.jpg?raw=true)
+
+[Wi-Fi_Servo_Controller_2 Schematic](https://github.com/endurancerc/PIC18F4550-Wi-Fi_Servo_Controller_2/main/wifi_servo_2_schematic.jpg)
+
+[Wi-Fi_Servo_Controller_2 Instructions](https://github.com/endurancerc/PIC18F4550-Wi-Fi_Servo_Controller_2/main/WiFi_servo_controller_2_instructions.pdf)
 
 ---------------------------------------------------------------------------------------------------------------
