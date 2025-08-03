@@ -8,8 +8,8 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-Build your own WiFi Servo Controller 2! Unlike the other products the WiFi Servo Controllwe 2 does not require
-  a bootloader. This firmware must be directly flashed to the microcontroller.
+Build your own WiFi Servo Controller 2! The WiFi Servo Controller 2 does not require a bootloader. This 
+   firmware must be directly flashed to the microcontroller!
   
 The commercial version can be found here:
 
@@ -19,6 +19,6 @@ Requires Device Circuit.
 
 ---------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
+![alt text](https://github.com/endurancerc/PIC18F4550-Wi-Fi_Servo_Controller_2/blob/main/wifi_servo_2_top.jpg?raw=true)
 
 ---------------------------------------------------------------------------------------------------------------
