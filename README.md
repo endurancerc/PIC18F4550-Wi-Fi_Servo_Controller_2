@@ -19,10 +19,6 @@ Requires Device Circuit.
 
 ---------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/wifi_servo_2_top.jpg?raw=true)
-
-[PCTx Bill of Materials](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_BOM.csv)
-
-[PCTx Instructions](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_instructions.pdf)
+![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
 
 ---------------------------------------------------------------------------------------------------------------
