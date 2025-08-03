@@ -1,4 +1,4 @@
-# Endurance R/C LLC - PIC18F4550-Wi-Fi_Servo_Controller_2
+# PIC18F4550-Wi-Fi_Servo_Controller_2
 ---------------------------------------------------------------------------------------------------------------
         ______          __                                    ____     ________
        / ____/___  ____/ /_  ___________ _____  ________     / __ \  _/_/ ____/
@@ -19,7 +19,7 @@ Requires Device Circuit.
 
 ---------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
+![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/wifi_servo_2_top.jpg?raw=true)
 
 [PCTx Bill of Materials](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_BOM.csv)
 
